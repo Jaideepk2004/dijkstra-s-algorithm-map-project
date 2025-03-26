@@ -1,7 +1,3 @@
-Here's a suggested README for your Dijkstra’s Algorithm Map project:
-
----
-
 # Dijkstra’s Algorithm Map
 
 🔥 **Inspiration**  
