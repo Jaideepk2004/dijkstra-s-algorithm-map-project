@@ -5,8 +5,8 @@
 Understanding pathfinding algorithms can be challenging, especially when dealing with real-world applications like navigation systems. Our Dijkstra’s Algorithm Map aims to make the concept of finding the shortest path between two points on a map interactive and easy to understand. It visually demonstrates the step-by-step process of Dijkstra’s algorithm, providing users with a clear and engaging way to learn about this crucial algorithm in computer science.
 
 ## 📽 Demo Video
+[Demo_Dijkstra's_algorithm_map.webm](https://github.com/user-attachments/assets/800dfacd-800a-4781-b76e-531e815ba182)
 
-[Download Demo Video](#)
 
 ## 🚀 What It Does
 
@@ -33,12 +33,6 @@ Our team developed the platform using:
 - Integrated Leaflet.js to ensure smooth and interactive map navigation.
 - Designed a clean UI to allow users to input custom data easily and visualize the algorithm’s steps.
 
-## 🎯 Accomplishments That We're Proud Of
-
-- Successfully implemented Dijkstra’s algorithm for dynamic, interactive maps.
-- Developed a user-friendly interface that helps users grasp complex pathfinding concepts.
-- Deployed the platform for easy access and testing.
-
 ## 📖 What We Learned
 
 - Gained a deeper understanding of Dijkstra’s algorithm and its practical applications.
@@ -49,13 +43,7 @@ Our team developed the platform using:
 
 ### **Local Server:**
 
-1. Clone the repository.
-2. Install Python dependencies (if any) for `map.py`.
-3. Run the `map.py` script (if required for data processing).
-4. Open the `index.html` file in your browser.
-5. Input your map data and test the algorithm.
+1. Open the `index.html` file in your browser.
+2. Input your map data and test the algorithm.
 
-### **Live Version:**
-
-Visit the live version here: [Dijkstra’s Algorithm Map](#)
 
